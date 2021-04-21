@@ -23,15 +23,15 @@ li > div {
 }
 
 .light {
-  background-color: #f7f7f7;
+  background-color: whitesmoke;
 }
 .gray {
-  background-color: #999;
+  background-color: lightgray;
 }
 
 .dark {
   color: #f7f7f7;
-  background-color: #0f0f0f;
+  background-color: #1b1b1b;
 }
 
 a {
